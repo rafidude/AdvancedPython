@@ -1,0 +1,2 @@
++ Advanced debugging (generators)
++ Viewing all and selected properties of an object (func.__name)
